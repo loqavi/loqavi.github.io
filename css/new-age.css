@@ -52,7 +52,8 @@ p {
 }
 
 section {
-  padding: 100px 0;
+  padding: 100px;
+  word-break: break-all;
 }
 
 section h2 {
@@ -379,7 +380,7 @@ section.imprint{
 }
 
 section.imprint h2 {
-  font-size: 50px;
+  font-size: 25px;
   margin-top: 0;
   padding-bottom: 15px;
 }
