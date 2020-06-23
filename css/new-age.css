@@ -52,8 +52,7 @@ p {
 }
 
 section {
-  padding: 100px;
-  word-break: break-all;
+  padding: 100px 0;
 }
 
 section h2 {
@@ -280,6 +279,7 @@ section.features .feature-item i {
   margin-bottom: 15px;
   background: linear-gradient(to left, #7b4397, #dc2430);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
